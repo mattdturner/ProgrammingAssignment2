@@ -1,8 +1,8 @@
 ## This function creates a special matrix that is actually a list containing
 ##   functions to:
-##        1) set a matrix
+##        1) store a matrix
 ##        2) get a matrix
-##        3) invert the matrix
+##        3) store the inverse of the matrix
 ##        4) get the inverse of a matrix.
 
 ## Written by:  Matt Turner
